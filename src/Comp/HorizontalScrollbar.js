@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box } from '@mui/material';
 import BodyPart from './BodyPart';
-import { ScrollMenu } from 'react-horizontal-scrolling-menu';
+// import { ScrollMenu } from 'react-horizontal-scrolling-menu';
 import ExerciseCart from './ExerciseCart';
 
 const HorizontalScrollbar = ({ data, bodyPart, setBodyPart,isBodyParts}) => {
