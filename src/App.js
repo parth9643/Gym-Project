@@ -3,7 +3,7 @@ import Footer1 from './Comp/Footer1';
 //import './App.css';
 import ExeDetail from './Pages1/ExeDetail';
 import Home1 from './Pages1/Home1';
-import { BrowserRouter,Routes,Route,Router
+import { BrowserRouter,Routes,Route
  } from 'react-router-dom';
 import { Box } from '@mui/material';
 
