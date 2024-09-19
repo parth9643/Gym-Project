@@ -1,6 +1,6 @@
 import React from 'react'
 import { Typography, Box, Stack, Button } from '@mui/material';
-import { exerciseOptions, FetchData } from '../utlis/FetchData'
+// import { exerciseOptions, FetchData } from '../utlis/FetchData'
 import BodyPartImage from '../assets/icons/body-part.png';
 import TargetImage from '../assets/icons/target.png';
 import EquipmentImage from '../assets/icons/equipment.png';
